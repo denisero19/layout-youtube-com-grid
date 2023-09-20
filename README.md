@@ -11,4 +11,4 @@ Um projeto de layout do Youtube com grid contendo a imagem do vídeo principal c
 
 **Você pode acessar o código fonte do projeto 
 
-<>**
+<https://github.com/denisero19/layout-youtube-com-grid>**
